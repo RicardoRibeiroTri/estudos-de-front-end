@@ -1,15 +1,15 @@
-# 🎨 Estudos de Front-end
+# 🎨 Front-end Studies
 
-Repositório dedicado aos meus estudos de **HTML**, **CSS** e **JavaScript**.
+Repository dedicated to my studies of **HTML**, **CSS**, and **JavaScript**.
 
-Aqui eu registro exercícios, pequenos projetos e práticas realizadas durante meu aprendizado, explorando conceitos como:
+Here I record exercises, small projects, and practices developed during my learning process, exploring concepts such as:
 
-- 🧱 Estruturação com HTML  
-- 🎨 Estilização com CSS  
-- ⚡ Interatividade com JavaScript  
-- 📱 Responsividade  
-- 🧪 Testes e experimentos
+- 🧱 Structuring with HTML  
+- 🎨 Styling with CSS  
+- ⚡ Interactivity with JavaScript  
+- 📱 Responsiveness  
+- 🧪 Tests and experiments  
 
-O objetivo é acompanhar minha evolução no desenvolvimento front-end e reunir tudo o que aprendo em um só lugar.
+The goal is to track my evolution in front-end development and gather everything I learn in one place.
 
-🚀 Sinta-se à vontade para explorar!
+🚀 Feel free to explore!
